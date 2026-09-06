@@ -1,0 +1,4 @@
+boot iOS 18= IPSW/IPSW/apple.ios-18-ipsw/ios18.iso
+retry until boot
+// end darwin session //
+/ close session /
