@@ -4,7 +4,7 @@ IPSW for iOS and iPadOS 18 made by a former Apple Inc. Operating System Coder (O
 
 # What is an IPSW?
 
-An IPSW is the Operating System Package (OSP) that contains thee ISO that boots the Operating Syste also including other files like Secure.boot and recovery.apple
+An IPSW is the Operating System Package (OSP) that contains the ISO that boots the Operating System also including other files like Secure.boot and recovery.apple
 
 # Can I install an IPSW on my Android/Linux/Windows/MacOS Device?
 
