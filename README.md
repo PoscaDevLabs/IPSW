@@ -9,3 +9,7 @@ An IPSW is the Operating System Package (OSP) that contains thee ISO that boots 
 # Can I install an IPSW on my Android/Linux/Windows/MacOS Device?
 
 NO an IPSW is only available for iPads and iPhones and to custom-ly install them you must use Open-Core-Patcher-Installer-iOS-iPadOS and any attempts to install it on another device will be logged
+
+# NOTE
+
+Open-Core-Patcher-Installer-iOS-iPadOS has been abandoned and has been erased there is no way to install it via App Store, and you may be charged a fine if you side load it/ or jailbreak your device for it.
